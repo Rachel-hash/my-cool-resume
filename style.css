@@ -5,4 +5,12 @@ body {
 header {
     text-align: center;
     background-color: blue;
+    border-bottom: 2px rgb(146, 146, 235);
+    padding-bottom: 1em;
+}
+p {
+    margin: 0
+}
+h1 {
+    text-transform: uppercase;
 }
